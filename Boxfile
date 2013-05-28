@@ -2,7 +2,7 @@ global:
   env:
     - LARAVEL_ENV: production
 web1:
-  name: wing5wong
+  name: sliderwong
   shared_writable_dirs:
     - /app/storage/cache
     - /app/storage/database
