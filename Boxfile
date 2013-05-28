@@ -2,7 +2,7 @@ global:
   env:
     - LARAVEL_ENV: production
 web1:
-  name: sliderwong
+  name: wongslider
   shared_writable_dirs:
     - /app/storage/cache
     - /app/storage/database
